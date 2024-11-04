@@ -1,5 +1,9 @@
 ## Problema:
-Os clientes estão fechando a conta em um banco. Precisamos usar os dados para saber de antemão quais estão insatisfeitos para entender e mitigar o que está acontecendo e tomar uma ação sobre essa situação. </br>
+Este projeto consiste na construção de um Modelo de Classificação voltado para prever a probabilidade de clientes encerrarem suas contas bancárias, fornecendo uma ferramenta valiosa para a gestão de retenção de clientes. Utilizando técnicas de aprendizado de máquina, o modelo foi treinado e validado para identificar padrões de comportamento e características associadas ao fechamento de contas.
+
+A implementação desse modelo permite ao banco agir de forma proativa, oferecendo soluções e abordagens personalizadas para clientes em risco de abandono. Além de melhorar a retenção, o modelo contribui para o planejamento estratégico de longo prazo e para o aprimoramento da experiência do cliente, ao alinhar-se com as necessidades e expectativas de seu público.
+
+Através de métricas de avaliação como acurácia, precisão e taxa de recall, o desempenho do modelo foi rigorosamente testado, assegurando sua capacidade de identificar, com alto grau de confiabilidade, os clientes com maior probabilidade de encerrar suas contas.</br>
 
 Variáveis: </br>
 Customerld: Identificador único do cliente </br>
